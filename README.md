@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy de Guatemala<br>Futuro Ingeniero en sistemas<br>Junior Developer<br>Hablo ingles y español<br>Puedes contactarme por instagram o Discord<br>------------------------------------------<br>I'm from Guatemala<br>Future systems engineer<br>Junior Developer<br>I speak English and Spanish<br>You can contact me on instagram or Discord
+<br>I'm from Guatemala<br>Future systems engineer<br>Junior Developer<br>I speak English and Spanish<br>You can contact me on instagram or Discord
 
 
 ## 🌐 Socials:
