@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Edwin Stevens Cambranes Mendizábal<br>I'm from Guatemala<br>Future systems engineer<br>Junior Developer<br>I speak English and Spanish<br>You can contact me on instagram, Discord or cambranesstevens@gmail.com
+I'm Edwin Stevens Cambranes Mendizábal<br>I'm from Guatemala<br>Future systems engineer<br>Junior Developer<br>I speak English and Spanish<br>You can contact me on cambranesstevens@gmail.com
 
 
 ## 🌐 Socials:
