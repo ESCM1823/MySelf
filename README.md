@@ -14,7 +14,6 @@
 </div>
 
 ###
-
 <br clear="both">
 
 <h1 align="center">Tech Skills 🤓</h1>
